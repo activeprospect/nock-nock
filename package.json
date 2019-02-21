@@ -1,6 +1,6 @@
 {
   "name": "nock-nock",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A simple record and replay `nock` helper",
   "main": "index.js",
   "author": "Chris Grayson",
